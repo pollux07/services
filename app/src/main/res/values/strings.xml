@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Request Services</string>
+    <string name="post">POST</string>
+    <string name="get">GET</string>
+    <string name="input_url">URL:</string>
+    <string name="request">Petición:</string>
+    <string name="method">Método:</string>
+    <string name="send">ENVIAR</string>
+    <string name="name">nombre:</string>
+    <string name="ap_mat">Ap Materno:</string>
+    <string name="ap_pat">Ap Paterno:</string>
+    <string name="birth">Fecha de nac: (00-00-000)</string>
+    <string name="sex">Sexo: (H,F)</string>
+    <string name="city">Ciudad:</string>
+    <string name="ind">ind:</string>
+    <string name="curp">CURP:</string>
+    <string name="requirement">Error al comunicarse con el servidor favor de verificar los parametros o URL</string>
+    <string name="results">Resultados</string>
+</resources>
